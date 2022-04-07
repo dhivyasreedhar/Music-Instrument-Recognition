@@ -5,4 +5,6 @@ Abstract: Music Instrument Recognition is one of the main tasks of Music Informa
 
 
 
-Paper submitted for publication.
+Dhivya S, Prabu Mohandas,“Comparison of Convolutional Neural Networks and K Nearest Neighbours for Music Instrument
+Recognition” in the book “Advances in Speech and Music Technology: Computational Aspects and Applications” of Springer book
+series “Signal and Communication Technology”. Accepted.
